@@ -1,0 +1,3 @@
+g++ -c lab2.cpp
+g++ -c main6.cpp
+g++ -o lab2 main.o lab2.o
